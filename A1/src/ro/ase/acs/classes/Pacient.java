@@ -7,7 +7,7 @@ public class Pacient {
     private boolean papuciDeCamera;
     private boolean halatPentruInterior;
 
-    // Constructorul fără opțiuni extra (toate setate pe false)
+
     public Pacient(String nume) {
         this.nume = nume;
         this.patRabatabil = false;
@@ -16,7 +16,7 @@ public class Pacient {
         this.halatPentruInterior = false;
     }
 
-    // Constructorul cu opțiuni extra
+
     public Pacient(String nume, boolean patRabatabil, boolean micDejunInclus, boolean papuciDeCamera, boolean halatPentruInterior) {
         this.nume = nume;
         this.patRabatabil = patRabatabil;
@@ -25,7 +25,7 @@ public class Pacient {
         this.halatPentruInterior = halatPentruInterior;
     }
 
-    // Metode de setare pentru fiecare opțiune extra, în cazul în care se dorește modificarea acestora ulterior
+
     public void setPatRabatabil(boolean patRabatabil) {
         this.patRabatabil = patRabatabil;
     }
@@ -42,7 +42,7 @@ public class Pacient {
         this.halatPentruInterior = halatPentruInterior;
     }
 
-    // Metode de acces pentru a obține starea fiecărei opțiuni
+
     public String getNume() {
         return nume;
     }
