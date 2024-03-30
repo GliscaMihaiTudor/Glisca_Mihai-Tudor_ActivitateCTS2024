@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Banca/Builder/Builder.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Banca/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Farmacie/Builder1/Builder1.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Farmacie/Builder1/Builder1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Restaurant/Builder2/Builder2.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Restaurant/Builder2/Builder2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Spital/Builder3/Builder3.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Spital/Builder3/Builder3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Sportiv/Builder4/Builder4.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Sportiv/Builder4/Builder4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/STB/Builder5/Builder5.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/STB/Builder5/Builder5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Banca/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Banca/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Farmacie/FactoryMethod1/FactoryMethod1.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Farmacie/FactoryMethod1/FactoryMethod1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Restaurant/FactoryMethod2/FactoryMethod2.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Restaurant/FactoryMethod2/FactoryMethod2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Spital/FactoryMethod3/FactoryMethod3.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Spital/FactoryMethod3/FactoryMethod3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Sportiv/FactoryMethod4/FactoryMethod4.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Sportiv/FactoryMethod4/FactoryMethod4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/STB/FactoryMethod5/FactoryMethod5.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/STB/FactoryMethod5/FactoryMethod5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Probleme CTS.iml" filepath="$PROJECT_DIR$/.idea/Probleme CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Banca/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Banca/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Farmacie/Prototype1/Prototype1.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Farmacie/Prototype1/Prototype1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Restaurant/Prototype2/Prototype2.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Restaurant/Prototype2/Prototype2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Spital/Prototype3/Prototype3.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Spital/Prototype3/Prototype3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Sportiv/Prototype4/Prototype4.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Sportiv/Prototype4/Prototype4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/STB/Prototype5/Prototype5.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/STB/Prototype5/Prototype5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Banca/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Banca/SimpleFactory/SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Farmacie/SimpleFactory1/SimpleFactory1.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Farmacie/SimpleFactory1/SimpleFactory1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Restaurant/SimpleFactory2/SimpleFactory2.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Restaurant/SimpleFactory2/SimpleFactory2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Spital/SimpleFactory3/SimpleFactory3.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Spital/SimpleFactory3/SimpleFactory3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/Sportiv/SimpleFactory4/SimpleFactory4.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/Sportiv/SimpleFactory4/SimpleFactory4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme CTS/Probleme/STB/SimpleFactory5/SimpleFactory5.iml" filepath="$PROJECT_DIR$/Probleme CTS/Probleme/STB/SimpleFactory5/SimpleFactory5.iml" />
+    </modules>
+  </component>
+</project>
