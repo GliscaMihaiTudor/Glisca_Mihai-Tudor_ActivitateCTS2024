@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Probleme/Probleme/Restaurant/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Probleme/Probleme/Restaurant/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme/Probleme/Restaurant/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Probleme/Probleme/Restaurant/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme/Probleme/Restaurant/Facade/Facade.iml" filepath="$PROJECT_DIR$/Probleme/Probleme/Restaurant/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme/Probleme/Restaurant/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Probleme/Probleme/Restaurant/Flyweight/Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Probleme.iml" filepath="$PROJECT_DIR$/.idea/Probleme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme/Probleme/Restaurant/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Probleme/Probleme/Restaurant/Proxy/Proxy.iml" />
+    </modules>
+  </component>
+</project>
